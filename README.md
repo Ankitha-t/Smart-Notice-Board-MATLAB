@@ -1,7 +1,7 @@
 # Smart Notice Board using MATLAB and Telegram
 
 <p align="center">
-  <img src="screenshots/smartnoticboardgui.jpeg" alt="Smart Notice Board GUI" width="750"/>
+  <img src="smartnoticboardgui.jpeg" alt="Smart Notice Board GUI" width="750"/>
 </p>
 
 A Smart Notice Board developed using **MATLAB** and the **Telegram Bot API** to broadcast notices directly to students through Telegram. This project demonstrates how MATLAB can communicate with web services to automate message delivery.
@@ -89,7 +89,7 @@ Smart-Notice-Board-MATLAB/
 ### MATLAB GUI
 
 <p align="center">
-  <img src="screenshots/smartnoticeboardgui.jpeg" alt="MATLAB GUI" width="700"/>
+  <img src="smartnoticeboardgui.jpeg" alt="MATLAB GUI" width="700"/>
 </p>
 
 ---
